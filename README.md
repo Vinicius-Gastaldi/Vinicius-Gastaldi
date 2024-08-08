@@ -1,4 +1,4 @@
-# Olá! 👋
+# Hi There! 👋
 
 Meu nome é Vinicius, sou um estudante do ensino médio de 18 anos, interessado em programação e robótica!
 
