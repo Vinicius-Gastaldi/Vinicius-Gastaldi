@@ -28,14 +28,6 @@
 
 ---
 
-### 📊 **Coding Stats**
-<!-- GitHub Stats (replace with your username) -->
-![Vini's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vinicius-Gastaldi&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vinicius-Gastaldi&layout=compact)
-
----
-
 ### 🎯 **Current Goals**
 - [ ] Master Spring Boot Microservices
 
