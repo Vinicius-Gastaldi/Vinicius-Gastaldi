@@ -31,7 +31,7 @@ Here's a pure markdown version using **Shields.io** badges only:
 ---
 
 ## 📊 **Competition Metrics**
-![FTC Wins](https://img.shields.io/badge/Competition_Wins-2🏆-brightgreen)
+![FTC Wins](https://img.shields.io/badge/Competition_Wins-14🏆-brightgreen)
 ![Accuracy](https://img.shields.io/badge/Code_Accuracy-98.7%25-success)
 ![Uptime](https://img.shields.io/badge/Robot_Uptime-99.3%25-green)
 ![Bugs Fixed](https://img.shields.io/badge/Bugs_Squashed-327🪲-red)
@@ -39,12 +39,22 @@ Here's a pure markdown version using **Shields.io** badges only:
 ---
 
 ## 🏆 **GitHub Glory**
-[![Stats](https://img.shields.io/badge/GitHub_Stats-Commits/Day:3.5-blue?logo=github)](https://github.com/vinicius-gastaldi)
-[![Streak](https://img.shields.io/badge/Streak-Current:27🔥-orange)](https://github.com/vinicius-gastaldi)
-[![Repos](https://img.shields.io/badge/Active_Repos-12🔄-blueviolet)](https://github.com/vinicius-gastaldi)
+[![Stats](https://img.shields.io/badge/GitHub_Stats-Commits/Day:3.5-blue?logo=github)](https://github.com/yourusername)
+[![Streak](https://img.shields.io/badge/Streak-Current:27🔥-orange)](https://github.com/yourusername)
+[![Repos](https://img.shields.io/badge/Active_Repos-12🔄-blueviolet)](https://github.com/yourusername)
 
 ---
 
+## 🤖 **Active Project: Autonomous Drone Controller**
+```csharp
+public class DroneController {
+    void AutonomousTakeoff() {
+        Sensors.Calibrate();
+        AI.NavigateWaypoints();
+        ComputerVision.IdentifyTargets();
+    }
+}
+```
 **Tech Stack**:  
 ![.NET](https://img.shields.io/badge/.NET-7.0-512BD4?logo=dotnet)
 ![MAVLink](https://img.shields.io/badge/MAVLink-Protocol-009698)
@@ -62,3 +72,13 @@ Here's a pure markdown version using **Shields.io** badges only:
 - [ ] ![Spring](https://img.shields.io/badge/Master-Spring_Security-red) 
 - [ ] ![AI](https://img.shields.io/badge/Build-AI_Powered_Robot-ff69b4)
 - [ ] ![Hackathons](https://img.shields.io/badge/Join-5+Hackathons-yellowgreen)
+
+```
+
+**To Activate**:  
+1. Replace all `yourusername` occurrences with your GitHub handle  
+2. Update competition metrics with actual numbers  
+3. Customize badges using [Shields.io Param Builder](https://shields.io/badges)  
+4. Add specific project repository links  
+
+All elements use native Shields.io syntax with custom parameters for robotics-specific metrics! 🤖✨
