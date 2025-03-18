@@ -34,22 +34,12 @@
 ---
 
 ## 🏆 **GitHub Glory**
-[![Stats](https://img.shields.io/badge/GitHub_Stats-Commits/Day:3.5-blue?logo=github)](https://github.com/yourusername)  
-[![Streak](https://img.shields.io/badge/Streak-Current:27🔥-orange)](https://github.com/yourusername)  
-[![Repos](https://img.shields.io/badge/Active_Repos-12🔄-blueviolet)](https://github.com/yourusername)  
+[![Stats](https://img.shields.io/badge/GitHub_Stats-Commits/Day:3.5-blue?logo=github)](https://github.com/vinicius-gastaldi)  
+[![Streak](https://img.shields.io/badge/Streak-Current:27🔥-orange)](https://github.com/vinicius-gastaldi)  
+[![Repos](https://img.shields.io/badge/Active_Repos-12🔄-blueviolet)](https://github.com/vinicius-gastaldi)  
 
 ---
 
-## 🤖 **Active Project: Autonomous Drone Controller**
-```csharp
-public class DroneController {
-    void AutonomousTakeoff() {
-        Sensors.Calibrate();
-        AI.NavigateWaypoints();
-        ComputerVision.IdentifyTargets();
-    }
-}
-```
 
 **Tech Stack**:  
 ![.NET](https://img.shields.io/badge/.NET-7.0-512BD4?logo=dotnet)  
@@ -66,8 +56,5 @@ public class DroneController {
 
 ## 🎯 **2024 Goals**
 - [ ] ![Spring](https://img.shields.io/badge/Master-Spring_Security-red)   
-- [ ] ![AI](https://img.shields.io/badge/Build-AI_Powered_Robot-ff69b4)   
-- [ ] ![Hackathons](https://img.shields.io/badge/Join-5+Hackathons-yellowgreen)   
 
 ```
-
