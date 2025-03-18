@@ -1,4 +1,4 @@
-# 👨💻 Vinicius Gastaldi  
+# 👨‍💻 Vinicius Gastaldi  
 `🤖 Robotics Developer` | `🚀 FIRST Tech Challenge` | `💻 Full-Stack Learner`
 
 ---
@@ -49,3 +49,25 @@ public class DroneController {
         ComputerVision.IdentifyTargets();
     }
 }
+```
+
+**Tech Stack**:  
+![.NET](https://img.shields.io/badge/.NET-7.0-512BD4?logo=dotnet)  
+![MAVLink](https://img.shields.io/badge/MAVLink-Protocol-009698)  
+![OpenCV](https://img.shields.io/badge/OpenCV-5.3-5C3EE8)  
+
+---
+
+## 📬 **Connect With Me**
+[![Email](https://img.shields.io/badge/📧_Email-vinicius.s.gastaldi@gmail.com-critical?logo=gmail)](mailto:vinicius.s.gastaldi@gmail.com)  
+[![LinkedIn](https://img.shields.io/badge/👔_LinkedIn-Connect-blue?logo=linkedin)](https://linkedin.com/in/vinicius-gastaldi-5a86942b6)  
+
+---
+
+## 🎯 **2024 Goals**
+- [ ] ![Spring](https://img.shields.io/badge/Master-Spring_Security-red)   
+- [ ] ![AI](https://img.shields.io/badge/Build-AI_Powered_Robot-ff69b4)   
+- [ ] ![Hackathons](https://img.shields.io/badge/Join-5+Hackathons-yellowgreen)   
+
+```
+
