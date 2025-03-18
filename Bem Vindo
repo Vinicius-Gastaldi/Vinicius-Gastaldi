@@ -1,6 +1,4 @@
-
-```markdown
-# 👨💻 Vinicius Gastaldi  
+# 👨‍💻 Vinicius Gastaldi  
 `🤖 Robotics Developer` | `🚀 FIRST Tech Challenge` | `💻 Full-Stack Learner`
 
 ---
@@ -8,75 +6,55 @@
 ## 🛠 **Technical Arsenal**
 
 ### 🤖 **Robotics Core**
-![Arduino](https://img.shields.io/badge/Arduino-Expert-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-![C++](https://img.shields.io/badge/C++-Robotics%20Programming-00599C?style=for-the-badge&logo=c%2B%2B)
-![ROS2](https://img.shields.io/badge/ROS%202-Humble-22314E?style=for-the-badge&logo=ros)
-![Sensor Fusion](https://img.shields.io/badge/Sensor_Fusion-LiDAR+IMU-important?style=for-the-badge)
+![Arduino](https://img.shields.io/badge/Arduino-Expert-00979D?logo=arduino&logoColor=white)  
+![C++](https://img.shields.io/badge/C++-Robotics%20Programming-00599C?logo=c%2B%2B)  
+![ROS2](https://img.shields.io/badge/ROS%202-Humble-22314E?logo=ros)  
+![Sensor Fusion](https://img.shields.io/badge/Sensor_Fusion-LiDAR+IMU-important)  
 
 ### 💻 **Programming Languages**
-![Java](https://img.shields.io/badge/Java-85%25-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-75%25-239120?style=for-the-badge&logo=c-sharp)
-![Python](https://img.shields.io/badge/Python-65%25-3776AB?style=for-the-badge&logo=python)
-![JavaScript](https://img.shields.io/badge/JavaScript-60%25-F7DF1E?style=for-the-badge&logo=javascript)
+![Java](https://img.shields.io/badge/Java-85%25-ED8B00?logo=java&logoColor=white)  
+![C#](https://img.shields.io/badge/C%23-75%25-239120?logo=c-sharp)  
+![Python](https://img.shields.io/badge/Python-65%25-3776AB?logo=python)  
+![JavaScript](https://img.shields.io/badge/JavaScript-60%25-F7DF1E?logo=javascript)  
 
 ### 🌐 **Web Development**
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-78%25-6DB33F?style=for-the-badge&logo=spring)
-![React](https://img.shields.io/badge/React-68%25-61DAFB?style=for-the-badge&logo=react)
-![HTML5](https://img.shields.io/badge/HTML5-90%25-E34F26?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-85%25-1572B6?style=for-the-badge&logo=css3)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-78%25-6DB33F?logo=spring)  
+![React](https://img.shields.io/badge/React-68%25-61DAFB?logo=react)  
+![HTML5](https://img.shields.io/badge/HTML5-90%25-E34F26?logo=html5)  
+![CSS3](https://img.shields.io/badge/CSS3-85%25-1572B6?logo=css3)  
 
 ---
 
 ## 📊 **Competition Metrics**
-![FTC Wins](https://img.shields.io/badge/Competition_Wins-14🏆-brightgreen?style=for-the-badge)
-![Accuracy](https://img.shields.io/badge/Code_Accuracy-98.7%25-success?style=for-the-badge)
-![Uptime](https://img.shields.io/badge/Robot_Uptime-99.3%25-green?style=for-the-badge)
-![Bugs Fixed](https://img.shields.io/badge/Bugs_Squashed-327🪲-red?style=for-the-badge)
+![FTC Wins](https://img.shields.io/badge/Competition_Wins-14🏆-brightgreen)  
+![Accuracy](https://img.shields.io/badge/Code_Accuracy-98.7%25-success)  
+![Uptime](https://img.shields.io/badge/Robot_Uptime-99.3%25-green)  
+![Bugs Fixed](https://img.shields.io/badge/Bugs_Squashed-327🪲-red)  
 
 ---
 
 ## 🏆 **GitHub Glory**
-[![Stats](https://img.shields.io/badge/GitHub_Stats-Commits/Day:3.5-blue?style=for-the-badge&logo=github)](https://github.com/yourusername)
-[![Streak](https://img.shields.io/badge/Streak-Current:27🔥-orange?style=for-the-badge)](https://github.com/yourusername)
-[![Repos](https://img.shields.io/badge/Active_Repos-12🔄-blueviolet?style=for-the-badge)](https://github.com/yourusername)
+[![Stats](https://img.shields.io/badge/GitHub_Stats-Commits/Day:3.5-blue?logo=github)](https://github.com/vinicius-gastaldi)  
+[![Streak](https://img.shields.io/badge/Streak-Current:27🔥-orange)](https://github.com/vinicius-gastaldi)  
+[![Repos](https://img.shields.io/badge/Active_Repos-12🔄-blueviolet)](https://github.com/vinicius-gastaldi)  
 
 ---
 
-## 🤖 **Active Project: Autonomous Drone Controller**
-```csharp
-public class DroneController {
-    void AutonomousTakeoff() {
-        Sensors.Calibrate();
-        AI.NavigateWaypoints();
-        ComputerVision.IdentifyTargets();
-    }
-}
-```
+
 **Tech Stack**:  
-![.NET](https://img.shields.io/badge/.NET-7.0-512BD4?style=for-the-badge&logo=dotnet)
-![MAVLink](https://img.shields.io/badge/MAVLink-Protocol-009698?style=for-the-badge)
-![OpenCV](https://img.shields.io/badge/OpenCV-5.3-5C3EE8?style=for-the-badge)
+![.NET](https://img.shields.io/badge/.NET-7.0-512BD4?logo=dotnet)  
+![MAVLink](https://img.shields.io/badge/MAVLink-Protocol-009698)  
+![OpenCV](https://img.shields.io/badge/OpenCV-5.3-5C3EE8)  
 
 ---
 
 ## 📬 **Connect With Me**
-[![Email](https://img.shields.io/badge/📧_Email-vinicius.s.gastaldi@gmail.com-critical?style=for-the-badge&logo=gmail)](mailto:vinicius.s.gastaldi@gmail.com)  
-[![LinkedIn](https://img.shields.io/badge/👔_LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/vinicius-gastaldi-5a86942b6)
+[![Email](https://img.shields.io/badge/📧_Email-vinicius.s.gastaldi@gmail.com-critical?logo=gmail)](mailto:vinicius.s.gastaldi@gmail.com)  
+[![LinkedIn](https://img.shields.io/badge/👔_LinkedIn-Connect-blue?logo=linkedin)](https://linkedin.com/in/vinicius-gastaldi-5a86942b6)  
 
 ---
 
 ## 🎯 **2024 Goals**
-- [ ] ![Spring](https://img.shields.io/badge/Master-Spring_Security-red?style=for-the-badge) 
-- [ ] ![AI](https://img.shields.io/badge/Build-AI_Powered_Robot-ff69b4?style=for-the-badge)
-- [ ] ![Hackathons](https://img.shields.io/badge/Join-5+Hackathons-yellowgreen?style=for-the-badge)
+- [ ] ![Spring](https://img.shields.io/badge/Master-Spring_Security-red)   
 
----
-
-### 🚀 **How to Use**
-1. Substitua `yourusername` pelo seu nome de usuário do GitHub.  
-2. Atualize as métricas com seus dados reais.  
-3. Personalize os badges usando [Shields.io](https://shields.io).  
-4. Adicione links para seus projetos.  
-
-🔥 **Agora seu perfil está pronto para brilhar!** 🚀  
 ```
