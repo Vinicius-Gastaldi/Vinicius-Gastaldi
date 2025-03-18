@@ -14,13 +14,17 @@
 ![C#](https://img.shields.io/badge/C%23-75%25-239120?logo=c-sharp)  
 ![Python](https://img.shields.io/badge/Python-65%25-3776AB?logo=python)  
 ![JavaScript](https://img.shields.io/badge/JavaScript-60%25-F7DF1E?logo=javascript)  
-![Angular](https://img.shields.io/badge/Angular-60%25-F7DF1E?logo=Angular)  
 
 ### 🌐 **Web Development**
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-78%25-6DB33F?logo=spring)  
-![React](https://img.shields.io/badge/React-68%25-61DAFB?logo=react)  
+
+![JavaScript](https://img.shields.io/badge/JavaScript-60%25-F7DF1E?logo=javascript)  
 ![HTML5](https://img.shields.io/badge/HTML5-90%25-E34F26?logo=html5)  
 ![CSS3](https://img.shields.io/badge/CSS3-85%25-1572B6?logo=css3)  
+
+### 🛠️ **Framework**
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-100%25-6DB33F?logo=spring)  
+![React](https://img.shields.io/badge/React-74%25-61DAFB?logo=react) 
+![Angular](https://img.shields.io/badge/Angular-85%25-F7DF1E?logo=Angular)  
 
 ---
 
