@@ -54,5 +54,5 @@
 
 ---
 
-## 🎯 **2024 Goals**
+## 🎯 **2025 Goals**
 - [ ] ![Spring](https://img.shields.io/badge/Master-Spring_Security-red)   
