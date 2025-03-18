@@ -1,7 +1,3 @@
-(Due to technical issues, the search service is temporarily unavailable.)
-
-Here's a pure markdown version using **Shields.io** badges only:
-
 ```markdown
 # 👨💻 Vinicius Gastaldi  
 `🤖 Robotics Developer` | `🚀 FIRST Tech Challenge` | `💻 Full-Stack Learner`
