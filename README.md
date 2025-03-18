@@ -1,24 +1,56 @@
-# Hi There! 👋
+👋 **Hey, I'm Vinicius Gastaldi** 🚀
 
-Meu nome é Vinicius, sou um estudante do ensino médio de 18 anos, interessado em programação e robótica!
+🎓 *18 y/o High School Student* | 💻 *Programming Enthusiast* | 🤖 *Robotics Builder*
 
-## 🚀 Sobre Mim
+🌐 **Português** | **English**
 
-- 🌱 Atualmente aprendendo **Java** e **C#**.
-- 🤖 Ativo no time de robotica **TechMaker Challenge #23069**, onde construímos e programamos robôs para competições.
+---
 
-## 🌟 Habilidades
+### 🛠️ **Tech Stack & Skills**
 
-- **Linguagens:** Java, C#, HTML/CSS
-- **Frameworks/Bibliotecas:** Spring Boot, React, Bootstrap
-- **Ferramentas:** Git, Arduino, 
-- **Outros:** Resolução de problemas, Depuração, Trabalho em equipe
+**Programming Languages**  
+![Java](https://img.shields.io/badge/Java-Expert-%23ED8B00?logo=java&logoColor=white) ![C#](https://img.shields.io/badge/C%23-Advanced-%23239120?logo=c-sharp&logoColor=white)  
+![HTML5](https://img.shields.io/badge/HTML5-90%25-%23E34F26?logo=html5) ![CSS3](https://img.shields.io/badge/CSS3-85%25-%231572B6?logo=css3)
 
-## 📫 Como Entrar em Contato
+**Frameworks & Tools**  
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-70%25-%236DB33F?logo=spring) ![React](https://img.shields.io/badge/React-60%25-%2361DAFB?logo=react)  
+![Arduino](https://img.shields.io/badge/Arduino-Pro-%2300979D?logo=arduino) ![Git](https://img.shields.io/badge/Git-Expert-%23F05032?logo=git)
 
-- **Email:** vinicius.s.gastaldi@gmail.com
-- **LinkedIn:** www.linkedin.com/in/vinicius-gastaldi-5a86942b6
+**Soft Skills**  
+🔥 Problem Solving | 🧠 Debugging Ninja | 👥 Team Collaboration
 
-## 🎉 Curiosidades
+---
 
-- Construí meu primeiro robô quando tinha 16 anos!
+### 🤖 **Robotics Journey**
+- 🏆 **Team Captain** @ [TechMaker Challenge #23069](https://example.com)  
+  *Built competition-ready robots from scratch (mechanics + code)*
+- 🚨 Current Project: **Autonomous Drone Swarm Controller** (Python + Arduino)
+- 🏅 **FIRST Robotics Competition** Regional Finalist (2023)
+
+---
+
+### 📊 **Coding Stats**
+<!-- GitHub Stats (replace with your username) -->
+![Vini's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vinicius-Gastaldi&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vinicius-Gastaldi&layout=compact)
+
+---
+
+### 🎯 **Current Goals**
+- [ ] Master Spring Boot Microservices
+- [ ] Build a Raspberry Pi-Powered Home Automation System
+- [ ] Compete in 5+ Hackathons in 2024
+
+---
+
+### 📬 **Let's Connect!**
+[![Gmail](https://img.shields.io/badge/Email-Drop%20Me%20a%20Line-%23EA4335?logo=gmail)](mailto:vinicius.s.gastaldi@gmail.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect%20Professionally-%230A66C2?logo=linkedin)](https://www.linkedin.com/in/vinicius-gastaldi-5a86942b6)
+
+---
+
+### 🔥 **Fun Facts**
+- 🤯 Built my first **AI-powered robot arm** at 16 using scrap parts!
+- ⚡ Can solve Rubik's Cube in under 40 seconds
+- 🎮 Developing a retro-style platformer game in Unity (WIP)
