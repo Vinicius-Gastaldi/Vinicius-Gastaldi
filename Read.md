@@ -28,9 +28,7 @@
 ---
 
 ## 📊 **Competition Metrics**
-![FTC Wins](https://img.shields.io/badge/Competition_Wins-14🏆-brightgreen)  
-![Accuracy](https://img.shields.io/badge/Code_Accuracy-98.7%25-success)  
-![Uptime](https://img.shields.io/badge/Robot_Uptime-99.3%25-green)  
+![FTC Wins](https://img.shields.io/badge/Competition_Wins-3🏆-brightgreen)  
 ![Bugs Fixed](https://img.shields.io/badge/Bugs_Squashed-327🪲-red)  
 
 ---
