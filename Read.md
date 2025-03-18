@@ -8,14 +8,13 @@
 ### 🤖 **Robotics Core**
 ![Arduino](https://img.shields.io/badge/Arduino-Expert-00979D?logo=arduino&logoColor=white)  
 ![C++](https://img.shields.io/badge/C++-Robotics%20Programming-00599C?logo=c%2B%2B)  
-![ROS2](https://img.shields.io/badge/ROS%202-Humble-22314E?logo=ros)  
-![Sensor Fusion](https://img.shields.io/badge/Sensor_Fusion-LiDAR+IMU-important)  
 
 ### 💻 **Programming Languages**
 ![Java](https://img.shields.io/badge/Java-85%25-ED8B00?logo=java&logoColor=white)  
 ![C#](https://img.shields.io/badge/C%23-75%25-239120?logo=c-sharp)  
 ![Python](https://img.shields.io/badge/Python-65%25-3776AB?logo=python)  
 ![JavaScript](https://img.shields.io/badge/JavaScript-60%25-F7DF1E?logo=javascript)  
+![Angular](https://img.shields.io/badge/Angular-60%25-F7DF1E?logo=Angular)  
 
 ### 🌐 **Web Development**
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-78%25-6DB33F?logo=spring)  
