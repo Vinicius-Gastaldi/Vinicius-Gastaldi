@@ -24,7 +24,6 @@
 ### 🤖 **Robotics Journey**
 - 🏆 **Team Captain** @ [TechMaker Challenge #23069](https://example.com)  
   *Built competition-ready robots from scratch (mechanics + code)*
-- 🚨 Current Project: **Autonomous Drone Swarm Controller** (Python + Arduino)
 - 🏅 **FIRST Robotics Competition** Regional Finalist (2023)
 
 ---
@@ -39,8 +38,6 @@
 
 ### 🎯 **Current Goals**
 - [ ] Master Spring Boot Microservices
-- [ ] Build a Raspberry Pi-Powered Home Automation System
-- [ ] Compete in 5+ Hackathons in 2024
 
 ---
 
@@ -51,6 +48,4 @@
 ---
 
 ### 🔥 **Fun Facts**
-- 🤯 Built my first **AI-powered robot arm** at 16 using scrap parts!
-- ⚡ Can solve Rubik's Cube in under 40 seconds
-- 🎮 Developing a retro-style platformer game in Unity (WIP)
+- 🤯 Built my first **AI-powered robot ** at 16!
