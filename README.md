@@ -10,21 +10,22 @@
 ---
 
 ```yaml
-- Identity:
+- Profile:
   - Name: "Vinicius Sedrez Gastaldi"
   - Age: 18 years
   - Nationality: 🇧🇷 Brazilian
 
-- Superpowers:
-  - 🖥️ Turning coffee into functional code
-  - 🔌 Making hardware obey my commands
-  - 🧠 Solving problems in unconventional ways
+- Key Skills:
+  - 🖥️ Developing functional software solutions
+  - ⚙  CAD and 3D Modeling
+  - 🔌 Hardware integration & IoT tinkering
+  - 🧠 Creative problem-solving
 
-- Hobbies:
-  - 🎮 Playing indie games (supporting small devs)
-  - 🚶‍♂️ Long walks (where I get my best coding ideas)
-  - 🔧 Taking apart electronics "to see how they work"
-
+- Interests:
+  - 🛠 Building Cool Robots
+  - 🎮 Exploring indie games
+  -  🚶‍♂️ Debugging life on long walks
+  - 🔧 Understanding electronics from the inside out
 
 ```
 ---
@@ -48,10 +49,13 @@ Proud **FIRST Alumni** and current **Mentor** for inspiring the next generation 
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 
-
 #### **IoT Platforms**
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=Black)
 ![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
+
+#### **Frontend Frameworks**
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 
 #### **Backend Development**
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
@@ -84,5 +88,3 @@ Proud **FIRST Alumni** and current **Mentor** for inspiring the next generation 
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&section=footer&animation=fadeIn&fontAlignY=65"/>
 ```
-
-Thank you for your patience. Please let me know if this version is finally correct.
