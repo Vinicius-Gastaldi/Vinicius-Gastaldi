@@ -12,7 +12,7 @@
 ```yaml
 - Profile:
   - Name: "Vinicius Sedrez Gastaldi"
-  - Age: 18 years
+  - Age: 19 years
   - Nationality: 🇧🇷 Brazilian
 
 - Key Skills:
